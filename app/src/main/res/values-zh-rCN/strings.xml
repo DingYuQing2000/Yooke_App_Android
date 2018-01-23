@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">游客</string>
+    <string name="title_activity_favourites">我的最爱</string>
+    <string name="slide_1_title">欢迎使用游客App</string>
+    <string name="homename">首页</string>
+    <string name="favouritesname">我的最爱</string>
+    <string name="others">其他</string>
+    <string name="gallery">精美壁纸</string>
+    <string name="settings">设定</string>
+    <string name="share">分享App</string>
+    <string name="next">下一步</string>
+    <string name="skip">跳过</string>
+    <string name="start">知道了</string>
+    <string name="Comprehensive">综合</string>
+    <string name="food">特色美食</string>
+    <string name="view">热门景点</string>
+    <string name="login">登陆</string>
+    <string name="favourites_no">收藏夹里没有喜欢的景点和美食吗？</string>
+    <string name="favourites_no2">去地图上找些你感兴趣的景点和美食吧！</string>
+    <string name="slide_2_title">通过视频等方式轻松了解当地热门景点与特色美食</string>
+    <string name="title_activity_login">登录</string>
+    <string name="prompt_email">电子邮件</string>
+</resources>

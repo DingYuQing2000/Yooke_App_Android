@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">游客</string>
+    <string name="next">下一步</string>
+    <string name="skip">跳過</string>
+    <string name="start">知道了</string>
+    <string name="slide_1_title">歡迎使用遊客App</string>
+    <string name="title_activity_favourites">我的最愛</string>
+    <string name="homename">首頁</string>
+    <string name="favouritesname">我的最愛</string>
+    <string name="others">其他</string>
+    <string name="gallery">精美相片</string>
+    <string name="settings">設定</string>
+    <string name="share">分享軟體</string>
+    <string name="Comprehensive">綜合</string>
+    <string name="food">特色美食</string>
+    <string name="view">熱門景點</string>
+    <string name="login">登陸</string>
+    <string name="favourites_no">收藏夾裡沒有喜歡的景點和美食嗎？</string>
+    <string name="favourites_no2">去地圖上找些你感興趣的景點和美食吧！</string>
+    <string name="slide_2_title">通過視頻等方式輕鬆了解當地熱門景點與特色美食</string>
+    <string name="title_activity_login">登錄</string>
+    <string name="prompt_email">電子郵件</string>
+</resources>
